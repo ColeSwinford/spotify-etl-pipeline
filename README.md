@@ -9,4 +9,5 @@ Command line interface program that...
 SPOTIPY_CLIENT_ID = your_client_id<br>
 SPOTIPY_CLIENT_SECRET = your_client_secret
 
+# Example
 ![Example Image](images/example.png)
