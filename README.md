@@ -8,3 +8,5 @@ Command line interface program that...
 # credentials.txt format
 SPOTIPY_CLIENT_ID = your_client_id<br>
 SPOTIPY_CLIENT_SECRET = your_client_secret
+
+![Example Image](images/example.png)
